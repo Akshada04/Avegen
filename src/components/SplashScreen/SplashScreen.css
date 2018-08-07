@@ -1,0 +1,9 @@
+.SplashScreen {
+    height: 100%;
+    background-image: url("../../assets/Splash/Graphic_Splash_Screen.png") !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#root {
+    height: 100%;
+}

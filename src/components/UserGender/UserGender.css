@@ -1,0 +1,52 @@
+.selectgender {
+    margin-top: 31px;
+    font-size: 28px;
+    font-weight: 400;
+    color: #6b2a69;
+}
+.selectUser {
+    margin-bottom: 31px;
+    font-size: 28px;
+    font-weight: 400;
+    color: #6b2a69;
+}
+.Usergender {
+    width:610px;
+    background-color: #fff;
+}
+
+.Name {
+    color: #6b2a6a;
+    opacity: .7;
+    font-size: 28px;
+    font-weight: 700;
+}
+.SelectName {
+    position: relative;
+    width: 147px;
+}
+.SelectName:hover::after {
+    content: '';
+    position: absolute;
+    border: 5px solid #fac015;
+    width: 147px;
+    height: 147px;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+
+.SelectName:hover .Name {
+    opacity: 1 !important;
+}
+
+.selectPointer {
+    top: 40% !important;
+    right: 26% !important;
+}
+
+.nextImg {
+    width: 59px;
+    height: 57px;
+}

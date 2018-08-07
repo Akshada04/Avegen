@@ -1,0 +1,11 @@
+.OtpPage {
+    width: 610px;
+}
+.input-group input {
+    width:57px;
+    margin-right: 28px;
+}
+.pointer {
+    top: 30px !important;
+    left: 25% !important;
+}

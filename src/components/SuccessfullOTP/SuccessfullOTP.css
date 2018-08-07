@@ -1,0 +1,14 @@
+.SuccessOtp {
+    width: 610px;
+}
+.SuccessOtp p{
+    font-size: 28px;
+    font-weight: 400;
+    color: #6b2a69;
+}
+.SuccessOtp .nextImg {
+    width: 59px;
+    height: 57px;
+    margin-top: 46px;
+    margin-bottom: 46px;
+}

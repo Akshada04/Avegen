@@ -1,0 +1,41 @@
+.selectAge {
+    border-radius: 50%;
+    height: 147px;
+    width: 147px !important;
+    background-color: #6b2a69;
+}
+.selectAge:hover::after {
+    content: '';
+    position: absolute;
+    border: 5px solid #fac015;
+    width: 147px;
+    height: 147px;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+.select {
+    font-size: 28px;
+    color: #6a2a69;
+    font-weight: 400
+}
+.AgeRange {
+    font-size: 28px;
+    color: #6a2a69;
+}
+.range {
+    font-size: 28px;
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+}
+.years {
+    font-size: 16px;
+    color: #fac015;
+    font-weight: 500;
+    text-align: center;
+}
+.AgeDiv {
+    width: 610px;
+}
